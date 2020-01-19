@@ -1,0 +1,9 @@
+MEME LEVEL: 0
+1. Make a screenshot of this
+2. Caption it with an incremented meme
+   level, along with these instructions
+3. Forward it to a different friend
+4. Send me a copy of the incoming and
+   outgoing meme: wolpertinger.rumo@gmx.de
+5. Watch out for the history:
+   https://github.com/WolpertingerRumo/MemeQuine
