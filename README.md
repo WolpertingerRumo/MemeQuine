@@ -1,3 +1,5 @@
+# ABANDONED
+
 # Meme Quine
 
 A [varying, mutating, competing, inheriting idea](https://en.wikipedia.org/wiki/Meme)
